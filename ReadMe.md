@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Xluiz2z&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Xluiz2z&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xluiz2z&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
+Node j.s
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Xluiz2z&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
